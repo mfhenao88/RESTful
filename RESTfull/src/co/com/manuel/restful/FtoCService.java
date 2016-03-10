@@ -1,4 +1,4 @@
-package co.com.manuel.restfull;
+package co.com.manuel.restful;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
